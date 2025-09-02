@@ -1,7 +1,9 @@
 ###### Olá, eu sou a Bianca Fróes 😁
 
 🌀 Atualmente focada em fluxos do n8n para diferentes cenários;
+
 🤖 Projetos e testes com chatbots e agentes de IA
+
 🐍 Estudante Python
 
 ✉️ Contate-me: froes.bianca@gmail.com
