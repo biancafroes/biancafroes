@@ -2,10 +2,6 @@
 
 🌀 Atualmente focada em fluxos do n8n para diferentes cenários;
 
-🤖 Projetos e testes com chatbots e agentes de IA
-
-🐍 Estudante Python
-
 ✉️ Contate-me: froes.bianca@gmail.com
 <p>
   <img align="center" height="30" width="40" src="https://cdn.simpleicons.org/n8n/EA4C89" alt="n8n logo" />
